@@ -55,6 +55,10 @@ Everything lives in [`SKILL.md`](plugins/ask-first/skills/ask-first/SKILL.md). C
 - apply it even to small tasks — edit the "When to apply" section;
 - limit the number of rounds — add a rule like "at most 2 rounds".
 
+## Privacy
+
+ask-first is instructions only: it contains no code, no MCP servers and no network calls. It does not collect, store or send any data anywhere. Your answers to its questions stay in your Claude conversation.
+
 ## Author
 
 [Manager1215](https://github.com/Manager1215)
