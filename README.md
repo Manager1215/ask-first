@@ -37,12 +37,13 @@ cp -r ask-first/plugins/ask-first/skills/ask-first ~/.claude/skills/
 
 ### Claude apps (claude.ai, desktop, mobile)
 
-1. Download [`ask-first.zip`](https://github.com/Manager1215/ask-first/releases/latest) from the latest release (or zip the `plugins/ask-first/skills/ask-first` folder yourself).
+1. Download [`ask-first.zip`](https://github.com/Manager1215/ask-first/raw/main/ask-first.zip) (or zip the `plugins/ask-first/skills/ask-first` folder yourself).
 2. Upload it in the Skills section of your Claude settings.
 
 ## Repository layout
 
 ```
+ask-first.zip                                # ready-to-upload skill for the Claude apps
 .claude-plugin/marketplace.json              # plugin marketplace manifest
 plugins/ask-first/.claude-plugin/plugin.json # plugin manifest
 plugins/ask-first/skills/ask-first/SKILL.md  # the skill itself
