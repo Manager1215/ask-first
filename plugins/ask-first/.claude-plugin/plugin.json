@@ -1,0 +1,13 @@
+{
+  "name": "ask-first",
+  "version": "1.0.0",
+  "description": "Makes Claude interview you with clarifying questions before any non-trivial task, and start only after you confirm.",
+  "author": {
+    "name": "Manager1215",
+    "url": "https://github.com/Manager1215"
+  },
+  "homepage": "https://github.com/Manager1215/ask-first",
+  "repository": "https://github.com/Manager1215/ask-first",
+  "license": "MIT",
+  "keywords": ["clarifying-questions", "requirements", "interview", "skill"]
+}

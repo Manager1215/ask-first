@@ -1,0 +1,22 @@
+{
+  "name": "ask-first",
+  "owner": {
+    "name": "Manager1215",
+    "url": "https://github.com/Manager1215"
+  },
+  "metadata": {
+    "description": "The ask-first skill: clarifying questions before work."
+  },
+  "plugins": [
+    {
+      "name": "ask-first",
+      "source": "./plugins/ask-first",
+      "description": "Makes Claude interview you with clarifying questions before any non-trivial task, and start only after you confirm.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Manager1215"
+      },
+      "license": "MIT"
+    }
+  ]
+}
